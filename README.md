@@ -42,16 +42,17 @@ Puedes acceder a la plataforma desde el siguiente enlace:
 
 ---
 
+
 ## 🛠️ Tecnologías utilizadas
 
-Las tecnologías empleadas en la construcción de la plataforma corresponden a las herramientas de desarrollo seleccionadas para el prototipo.
+- **HTML5:** Estructura de la plataforma web.
+- **CSS3:** Diseño de interfaces y estilos visuales adaptables.
+- **JavaScript:** Desarrollo de funcionalidades interactivas, diagnóstico y evaluaciones.
+- **Firebase Authentication:** Gestión del registro e inicio de sesión de usuarios.
+- **Google Authentication:** Autenticación mediante cuentas de Google.
+- **LocalStorage:** Almacenamiento local del progreso y los datos de los usuarios en modo demostración.
+- **Google Fonts:** Integración de tipografía Inter.
 
-- **Frontend:** [Tecnología utilizada]
-- **Backend:** [Tecnología utilizada]
-- **Base de datos:** [Tecnología utilizada]
-- **Herramientas de desarrollo:** [Herramientas utilizadas]
-
----
 
 ## 🎯 Objetivo del proyecto
 
