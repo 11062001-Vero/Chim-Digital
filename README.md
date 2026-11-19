@@ -13,7 +13,7 @@ El proyecto busca promover la alfabetización y la inclusión digital, facilitan
 
 Puedes acceder a la plataforma desde el siguiente enlace:
 
-👉 [Acceder a la plataforma web](COLOCA_AQUI_EL_ENLACE)
+👉 [Acceder a la plataforma web](https://11062001-vero.github.io/Chim-Digital/)
 
 ---
 
